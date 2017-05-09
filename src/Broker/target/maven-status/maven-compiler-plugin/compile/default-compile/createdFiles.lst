@@ -1,0 +1,6 @@
+br\com\modelagem\dto\Ordem.class
+br\com\modelagem\services\ModelagemService.class
+br\com\modelagem\connection\util\ConnectionUtil.class
+br\com\modelagem\dto\Cliente.class
+br\com\modelagem\util\ModelagemConstants.class
+br\com\modelagem\controllers\ModelagemController.class
